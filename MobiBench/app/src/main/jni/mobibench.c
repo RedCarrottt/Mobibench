@@ -933,7 +933,7 @@ int thread_main(void* arg)
 				{
 					wmaddr = &maddr[i*real_reclen];
 				}
-				bcopy((long long*)buf,(long long*)wmaddr,(long long)real_reclen);
+				memmove((long long*)buf,(long long*)wmaddr,(long long)real_reclen);
 				if(g_sync == MMAP_AS)
 				{
 					msync(wmaddr,(size_t)real_reclen,MS_ASYNC);
@@ -1002,7 +1002,7 @@ int thread_main(void* arg)
 				{
 					wmaddr = &maddr[i*real_reclen];
 				}
-				bcopy((long long*)wmaddr,(long long*)buf, (long long)real_reclen);
+				memmove((long long*)wmaddr,(long long*)buf, (long long)real_reclen);
 		 	}
 			else
 		 	{

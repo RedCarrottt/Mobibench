@@ -14,7 +14,7 @@ LOCAL_SHARED_LIBRARIES := libicuuc \
 #ifneq ($(TARGET_ARCH),arm)
 #LOCAL_LDLIBS += -L. -lsqlite
 #LOCAL_LDLIBS += -L $(LOCAL_PATH) -lsqlite -llog
-LOCAL_LDLIBS += -L $(LOCAL_PATH) -llog -v
+LOCAL_LDLIBS += -L $(LOCAL_PATH) -llog -landroid
 #endif
 
 LOCAL_CFLAGS += -DANDROID_APP -DSTDC_HEADERS
