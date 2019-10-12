@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/esos/MobiBench/First.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/esos/MobiBench/MobiBenchExe.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/esos/MobiBench/ProgressTrd.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/esos/ResultListControl/UpdateData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/esos/ResultListControl/Webview.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

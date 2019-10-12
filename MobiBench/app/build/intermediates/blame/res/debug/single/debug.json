@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_sw.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/icon_sw.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_rr.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/icon_rr.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_ibtn_sqlite.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/ibtn_sqlite.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_default.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/bg_default.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_ibtn_all.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/ibtn_all.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_mea_middle01.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/bg_mea_middle01.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_share_clk.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/btn_share_clk.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/layout_footer.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/layout/footer.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/anim_aniimage.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/anim/aniimage.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_file_title.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/file_title.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_mea_middle04.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/bg_mea_middle04.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_button.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/button.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_ibtn_custom.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/ibtn_custom.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_info.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/info.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_startbutton.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/startbutton.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_rank.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/btn_rank.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/layout_header.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_mea.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/tab_mea.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_button_clk.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/button_clk.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_rw.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/icon_rw.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable_btn_dropdown.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable/btn_dropdown.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_execute.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/btn_execute.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_ibtn_rank.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/ibtn_rank.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_share.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/btn_share.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_mea_middle.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/bg_mea_middle.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_dropdown_a13.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/btn_dropdown_a13.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/layout_info.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/layout/info.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_send_e_c.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/send_e_c.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_insert.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/icon_insert.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_update.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/icon_update.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_send_h_c.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/send_h_c.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_mea_middle05.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/bg_mea_middle05.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_ibtn_execute.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/ibtn_execute.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_mea_middle06.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/bg_mea_middle06.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_rank_clk.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/btn_rank_clk.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/layout_spinner_item.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_last_title.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/last_title.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_dropdown_normal_a13.9.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/btn_dropdown_normal_a13.9.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_execute_clk.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/btn_execute_clk.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/layout_history_listitem.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/layout/history_listitem.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/layout_tabmain.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/layout/tabmain.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/layout_custome_title.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/layout/custome_title.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_ibtn_send_h.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/ibtn_send_h.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/layout_lastlistitem.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/layout/lastlistitem.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/layout_mbwebview.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/layout/mbwebview.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_mea_middle02.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/bg_mea_middle02.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_sr.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/icon_sr.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_etc_title.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/etc_title.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_progressbar_custom.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/progressbar_custom.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/layout_first.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/layout/first.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_dropdown_disabled_a13.9.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/btn_dropdown_disabled_a13.9.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_result_title.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/result_title.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_dropdown_pressed_a13.9.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/btn_dropdown_pressed_a13.9.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_main_btn_custom.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/main_btn_custom.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_main_btn_custom_clk.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/main_btn_custom_clk.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_send_e.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/send_e.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_main_btn_file_clk.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/main_btn_file_clk.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_info_img.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/info_img.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_mea_middle07.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/bg_mea_middle07.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_intro.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/intro.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_main_btn_file.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/main_btn_file.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_ibtn_share.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/ibtn_share.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_main_btn_sqlite.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/main_btn_sqlite.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_main_btn_sqlite_clk.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/main_btn_sqlite_clk.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_sqlite_title.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/sqlite_title.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_help.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/tab_help.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_ibtn_file.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/ibtn_file.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_history.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/tab_history.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_measure.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/bg_measure.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_dropdown_disabled_focused_a13.9.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/btn_dropdown_disabled_focused_a13.9.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_send_h.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/send_h.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_delete.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/icon_delete.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_mea_middle03.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/bg_mea_middle03.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_title.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/title.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_main_btn_all_clk.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/main_btn_all_clk.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/layout_popup_list_row.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/layout/popup_list_row.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_dropdown_selected_a13.9.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/btn_dropdown_selected_a13.9.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_main_btn_all.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/main_btn_all.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_initstart.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/initstart.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_mea_middle00.png.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/drawable-hdpi/bg_mea_middle00.png"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/redcarrottt/repository/yj/MobiBench2/app/build/intermediates/res/merged/debug/layout_listitem.xml.flat",
+        "source": "/Users/redcarrottt/repository/yj/MobiBench2/app/src/main/res/layout/listitem.xml"
+    }
+]
